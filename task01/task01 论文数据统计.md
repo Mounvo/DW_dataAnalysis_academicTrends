@@ -668,7 +668,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-<img src="/Users/mac/Library/Application Support/typora-user-images/image-20210112201811940.png" alt="image-20210112201811940" style="zoom:50%;" />
+![image](https://github.com/Mounvo/DW_dataAnalysis_academicTrends/blob/main/picture/task1_papercount_bar.png)
 
 下面统计在计算机各个子领域2019年后的paper数量，我们同样使用 merge 函数，对于两个dataframe 共同的特征 categories 进行合并并且进行查询。然后我们再对于数据进行统计和排序从而得到以下的结果：
 
